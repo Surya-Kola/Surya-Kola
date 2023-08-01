@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 > - 🔭 I’m currently working on React
 > - 🌱 learning Javascript along with React
 > - 👯 I’m looking to collaborate on front-end with someone like you to create a project
-> - 📫 How to reach me: malothaditya006@gmail.com
+> - 📫 How to reach me: suryajanardhankola@gmail.com
 > - ⚡ Fun fact: I'm not a human being
 
 <!-- <div align="center">
